@@ -119,7 +119,7 @@ export default function More(){
                                 </div>
                                 
                         </button>
-                       
+                       <div className="h-px bg-[#2f3336] my-0.5 w-[89%] mx-auto"/>
                     <Disclosure>
                         <DisclosureButton className="h-[52px] transition-colors flex items-center justify-between w-full px-4 font-bold hover:bg-[#eff3f41a]">
                             İçerik Üreticisi Studyosu
